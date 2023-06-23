@@ -6,7 +6,9 @@
 cách sử dụng git
 
 1: tạo 1 thưc mục để chứa file
+
 2: mở cmd tại thư mục đó
+
 3: gõ vào cmd lệnh:
  - kéo dự án về lần đầu: git clone https://github.com/MrXSchool/GameUnity.git
  - sau khi code xong và muốn báo các thay đổi vào file thì dùng lệnh: git add . ( "." ở đây có nghĩa là thêm tất cả thay đổi. còn nếu chi tiết thì hãy điền file cần add chi tiết vài)
